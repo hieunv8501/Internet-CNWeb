@@ -1,6 +1,8 @@
-Đồ án môn học Internet & Công nghệ web
+Project on Internet & Web Technology
 
-Nhóm sinh viên xây dựng giao diện:
+Group responsibility members for project progress:
 
 1. Bùi Văn Tình
 2. Nguyễn Văn Hiếu
+
+Deploy review link: https://hieunv8501.github.io/Internet-CNWeb/TrangChu.html
